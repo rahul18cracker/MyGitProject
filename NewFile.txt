@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content added by DEV2
+=======
+Content added my DEV1
+>>>>>>> a329a3ee0bd36a8fada38807eab689976c0074a1
